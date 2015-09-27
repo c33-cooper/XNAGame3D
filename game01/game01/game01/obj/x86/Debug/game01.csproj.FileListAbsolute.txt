@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\obj\x86\Debug\game01.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\game01.exe
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\game01.pdb
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\obj\x86\Debug\game01.exe
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\obj\x86\Debug\game01.pdb
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\Content\Models\Terrain\terrain.xnb
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\Content\Models\Terrain\terrrrrrrrrain.xnb
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\Content\Models\Terrain\terrrrrrrrrain_0.xnb
+C:\Users\Callum\Documents\Coding\xna\game01\game01\game01\bin\x86\Debug\Content\Models\Characters\roman.xnb
